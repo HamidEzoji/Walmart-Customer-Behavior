@@ -63,7 +63,7 @@ python code/full_analysis.py
 - 🔁 Repeat Customer Prediction: Used Logistic Regression and Random Forest models with SMOTE balancing and hyperparameter tuning
 
   **📬 Contact**
-  Hamid Ezoji
-📧 hamid.ezoji@student.ibs-b.hu
-🔗 [GitHub Repository](<<<INSERT YOUR GITHUB REPO LINK HERE>>>)
+  *Hamid Ezoji*
+📧 HEZOJI@IBS-b.hu
+🔗 [GitHub Repository](<<<(https://github.com/HamidEzoji/Walmart-Customer-Behavior)>>>)
 `<<<[Walmart_Customer_Behavior DATASET ON KAGGLE](https://www.kaggle.com/datasets/logiccraftbyhimanshi/walmart-customer-purchase-behavior-dataset)>>>`  
