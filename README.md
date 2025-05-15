@@ -20,7 +20,7 @@ The analysis includes:
 ## 📁 Repository Structure
 
 walmart-customer-behavior/
-├── code/
+- ├── code/
 │ ├── 01_data_preparation.py
 │ ├── 02_eda.py
 │ ├── 03_segmentation.py
@@ -29,11 +29,10 @@ walmart-customer-behavior/
 │ │ ├── 02_logistic_regression.py
 │ │ └── 03_customer‐level aggregation (rfm + repe).py
 │ └── full_analysis.py
-├── data/
+- ├── data/
 │ └── walmart_customer_purchases.csv
-├── visualizations/
+- ├── visualizations/
 │ └── *.png
-└── README.md
 
 
 ---
