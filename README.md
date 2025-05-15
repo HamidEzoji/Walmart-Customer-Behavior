@@ -66,4 +66,4 @@ python code/full_analysis.py
   *Hamid Ezoji*
 - 📧 HEZOJI@IBS-b.hu
 - 🔗 [GitHub Repository](<<<(https://github.com/HamidEzoji/Walmart-Customer-Behavior)>>>)
-- `<<<[Walmart_Customer_Behavior DATASET ON KAGGLE](https://www.kaggle.com/datasets/logiccraftbyhimanshi/walmart-customer-purchase-behavior-dataset)>>>`  
+- `[Walmart_Customer_Behavior DATASET ON KAGGLE]<<<(https://www.kaggle.com/datasets/logiccraftbyhimanshi/walmart-customer-purchase-behavior-dataset)>>>`  
