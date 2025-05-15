@@ -47,7 +47,9 @@ walmart-customer-behavior/
 python code/01_data_preparation.py
 python code/02_eda.py
 python code/03_segmentation.py
-python code/04_classification/classification.py
+python code/04_modelling/01_classification.py
+python code/04_modelling/02_logistic_regression.py
+python code/04_modelling/03_customer‐level aggregation (rfm + repe).py
 ```
 **Option 2 – Run the full project in one go:**
 ```bash
