@@ -33,7 +33,7 @@ walmart-customer-behavior/
 │ └── walmart_customer_purchases.csv
 - ├── visualizations/
 │ └── *.png
-
+└── README.md
 
 ---
 
